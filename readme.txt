@@ -1,15 +1,10 @@
 ﻿GRID COURSE FORMAT
 ============================
-Package tested in: moodle 2.1+
+Package tested in: moodle 2.3+
 
 QUICK INSTALL
 ==============
 Download zip package, extract the grid folder and upload this folder into course/format/.
-
-ABOUT
-=============
-Developed by:
-Information in: 
 
 FILES
 --------------
@@ -59,3 +54,11 @@ FILES
 
 ROADMAP
 =============
+
+* add new options screen to allow setting a few things:
+  - specify overlay icon behaviour (no overlay, new changes, not started, topic completed)
+  - specify position of label text (over, under, hover/tap caption)
+  - specify image size
+* fix overlay to work better in more browsers, particularly tablets
+* fix bodgy css box layout for images
+* 
